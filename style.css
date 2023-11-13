@@ -3,7 +3,7 @@
    width: 800px;
     
     /* border: 2px solid red; */
-    margin: 10px auto;
+    margin: 20px auto;
 }
 .head{
     width: 455px;
@@ -25,6 +25,7 @@
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    margin-top: 40px;
 
 }
 #main_img{
